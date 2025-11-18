@@ -12,17 +12,19 @@
 ### 🧰 Tech Toolbox (Badges + Icons)
 <p align="left">
   <!-- Icons -->
-  <img src="https://skillicons.dev/icons?i=js,ts,bash,linux,arch,docker,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,bash,linux,arch,docker,git,html,css, py" />
 </p>
 
 <!-- Badges -->
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
 </p>
+
 
 ---
 
@@ -42,18 +44,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tony-nlc&show_icons=true&theme=merko" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-nlc&layout=compact&theme=merko" />
 </div>
-
----
-
-### 💡 Philosophy
-> “Write code that is easy to delete, not hard to maintain.”
-
----
-
-### 📩 Connect
-I'm always open to collaboration and dev-ops discussions.  
-Feel free to reach out anytime through GitHub.
-
----
-
-#### 🖥️ Happy hacking — thanks for stopping by!
