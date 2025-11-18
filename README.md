@@ -1,16 +1,63 @@
-## Hi there 👋
+<!-- Retro Terminal Banner -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=550&lines=%24+whoami;Tony+NLC;Developer+%7C+Linux+%7C+Automation" alt="Typing SVG" />
+</h1>
 
-<!--
-**tony-nlc/tony-nlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 Hi, I'm Tony
+Passionate about **clean code, automation, infrastructure, and Linux customization**.  
+I enjoy building efficient systems and creating tools that make development & deployment easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Toolbox (Badges + Icons)
+<p align="left">
+  <!-- Icons -->
+  <img src="https://skillicons.dev/icons?i=js,ts,bash,linux,arch,docker,git,html,css" />
+</p>
+
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+| Project | Description |
+|--------|-------------|
+| 🔹 **auto-suggestion** | JavaScript project focused on smart search experience |
+| 🔹 **Picky-Cinephile** | Movie-centered JS app for film lovers |
+| 🔹 **recycler** | Shell tool to safely manage recycle bin on Arch Linux |
+| 🔹 **Server Deployment Guide for DigitalOcean** | Complete shell-based deployment guide |
+| 🔹 **Load Balancer Guide** | DigitalOcean load balancing setup for production |
+
+🔗 Explore more on my repo list → **https://github.com/tony-nlc**
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tony-nlc&show_icons=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony-nlc&layout=compact&theme=merko" />
+</div>
+
+---
+
+### 💡 Philosophy
+> “Write code that is easy to delete, not hard to maintain.”
+
+---
+
+### 📩 Connect
+I'm always open to collaboration and dev-ops discussions.  
+Feel free to reach out anytime through GitHub.
+
+---
+
+#### 🖥️ Happy hacking — thanks for stopping by!
