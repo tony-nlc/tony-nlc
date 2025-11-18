@@ -12,7 +12,7 @@
 ### 🧰 Tech Toolbox (Badges + Icons)
 <p align="left">
   <!-- Icons -->
-  <img src="https://skillicons.dev/icons?i=js,ts,bash,linux,arch,docker,git,html,css, py" />
+  <img src="https://skillicons.dev/icons?i=js,ts,bash,linux,arch,docker,git,html,css,py" />
 </p>
 
 <!-- Badges -->
