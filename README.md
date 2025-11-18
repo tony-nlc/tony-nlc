@@ -6,8 +6,6 @@
 ---
 
 ### 👋 Hi, I'm Tony
-Passionate about **clean code, automation, infrastructure, and Linux customization**.  
-I enjoy building efficient systems and creating tools that make development & deployment easier.
 
 ---
 
@@ -31,11 +29,9 @@ I enjoy building efficient systems and creating tools that make development & de
 ### 🚀 Featured Projects
 | Project | Description |
 |--------|-------------|
-| 🔹 **auto-suggestion** | JavaScript project focused on smart search experience |
-| 🔹 **Picky-Cinephile** | Movie-centered JS app for film lovers |
+| 🔹 **auto-suggestion** | Python project focused on smart search experience |
 | 🔹 **recycler** | Shell tool to safely manage recycle bin on Arch Linux |
-| 🔹 **Server Deployment Guide for DigitalOcean** | Complete shell-based deployment guide |
-| 🔹 **Load Balancer Guide** | DigitalOcean load balancing setup for production |
+| 🔹 **Yahtzee** | Multiplayer Yahtzee game built with React & TypeScript |
 
 🔗 Explore more on my repo list → **https://github.com/tony-nlc**
 
