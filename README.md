@@ -1,11 +1,7 @@
 <!-- Retro Terminal Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=550&lines=%24+whoami;Tony+NLC;Developer+%7C+Linux+%7C+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=550&lines=%24+whoami;Tony;Developer" alt="Typing SVG" />
 </h1>
-
----
-
-### 👋 Hi, I'm Tony
 
 ---
 
