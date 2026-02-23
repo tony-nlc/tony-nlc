@@ -1,29 +1,60 @@
-# 🖥️ Tony Chou | Full-Stack Engineer
-**[Personal Website](https://tony-nlc.github.io/TonyC)** | **[LinkedIn](https://linkedin.com/in/tony-nlc)** | **[Email](mailto:ngai.lam.chou@gmail.com)**
+# Tony Chou | Full-Stack Engineer
+
+<p align="left">
+<a href="https://tony-nlc.github.io/TonyC"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+<a href="https://linkedin.com/in/tony-nlc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ngai.lam.chou@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 🧰 Tech Toolbox
-* **Languages:** Go, TypeScript, JavaScript, Python, SQL (PostgreSQL, MySQL, SQLite)
-* **Backend:** NestJS, Node.js, Flask, Express.js, Socket.IO
-* **Frontend:** React, Next.js, Tailwind CSS
-* **Cloud & DevOps:** AWS (Certified), Docker, MongoDB, Linux (Arch/Bash)
+
+**Languages**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Backend & Tools**
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Labs](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
 
 ### 🚀 Featured Work
-| Project | Tech Stack | Links |
+
+| Project | Tech Stack | Description |
 |:--- |:--- |:--- |
-| 🏗️ **Formations Corp** | `Go`, `MongoDB` | Professional Co-op: Tax-filing automation & API integration. |
-| 📈 **Insight Forge** | `Python`, `Flask` | YouTube sentiment analysis & trend visualization. |
-| 🧪 **Investment Scorecard** | `NestJS`, `PostgreSQL` | GraphQL-based VC workflows for Cypress Hill Partners. |
-| 🔍 **Goggle** | `Flask`, `React` | Custom Trie implementation for fuzzy-match search. |
-| 🎲 **Yahtzee** | `React`, `TS` | **[Live Demo](https://tony-nlc.github.io/Yahtzee)** |
-| 📺 **Marquee** | `HTML`, `CSS` | **[Live Demo](https://tony-nlc.github.io/Marquee)** |
+| 🏗️ **Formations Corp** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | Professional Co-op: Tax-filing automation & API integration. |
+| 📈 **Insight Forge** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | YouTube sentiment analysis & trend visualization. |
+| 🧪 **Investment Scorecard** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white) | GraphQL-based VC workflows for Cypress Hill Partners. |
+| 🔍 **Goggle** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | Custom Trie implementation for fuzzy-match search. |
+| 🎲 **Yahtzee** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | **[Live Demo](https://tony-nlc.github.io/Yahtzee)** |
+| 📺 **Marquee** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | **[Live Demo](https://tony-nlc.github.io/Marquee)** |
 
 ---
 
 ### 📜 Certifications & Education
+
 * ☁️ **AWS Certified Cloud Partitioner** (2025 – 2028)
 * 🎓 **BCIT** - Computer Information Technology (**GPA: 90%**)
 
