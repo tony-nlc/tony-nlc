@@ -48,8 +48,8 @@
 | 📈 **Insight Forge** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) | YouTube sentiment analysis & trend visualization. |
 | 🧪 **Investment Scorecard** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white) | GraphQL-based VC workflows for Cypress Hill Partners. |
 | 🔍 **Goggle** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | Custom Trie implementation for fuzzy-match search. |
-| 🎲 **Yahtzee** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | **[Live Demo](https://tony-nlc.github.io/Yahtzee)** |
-| 📺 **Marquee** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | **[Live Demo](https://tony-nlc.github.io/Marquee)** |
+| 🎲 ![**Yahtzee**](https://github.com/tony-nlc/yahtzee) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | **[Live Demo](https://tony-nlc.github.io/yahtzee)** |
+| 📺 ![**Marquee**](https://github.com/tony-nlc/Marquee) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | **[Live Demo](https://tony-nlc.github.io/Marquee)** |
 
 ---
 
